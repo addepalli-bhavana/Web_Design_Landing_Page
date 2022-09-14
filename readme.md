@@ -19,10 +19,10 @@
 - I have taken 2 hours to complete this project.
 
 ### **👀SCREEN CAPTURE IN LAPTOP SCREEN:**
-![Product Home Page Screen Capture In Laptop Screen](ScreenCapture-In-Laptop-Screen.png)
+![Web Design Landing Page Screen Capture In Laptop Screen](ScreenCapture-In-Laptop-Screen.png)
 
 ### **👀SCREEN CAPTURE IN MOBILE SCREEN:**
-![Product Home Page Screen Capture In Mobile Screen](ScreenCapture-In-Mobile-Screen.png)
+![Web Design Landing Page Screen Capture In Mobile Screen](ScreenCapture-In-Mobile-Screen.png)
 
 ### 💻📱I have made this project responsive in both **laptop** screen and **mobile** screen
 
