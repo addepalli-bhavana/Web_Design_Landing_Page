@@ -3,6 +3,7 @@
   margin: 0px;
   outline: 0px;
 }
+/* background */
 body {
   overflow-y: hidden;
   background-image: url("../assets/backcover.svg");
@@ -11,6 +12,7 @@ body {
   background-position: right;
   font-family: roboto;
 }
+/* nav-bar */
 nav {
   display: flex;
   align-items: center;
@@ -41,9 +43,11 @@ nav div:nth-child(3) {
   color: #FFFFFF;
   font-size: 18px;
 }
+/* main-section */
 .main-section {
   display: flex;
 }
+/* left-section */
 .left-section {
   padding-right: 180px;
   padding-left: 80px;
@@ -71,6 +75,7 @@ nav div:nth-child(3) {
   font-family: roboto;
   background: linear-gradient(to right, #965cf2, #ff8adc);
 }
+/* right-section */
 .imgs-div img:last-child {
   position: relative;
   bottom: 170px;
@@ -90,6 +95,7 @@ nav div:nth-child(3) {
 .s-btn {
   display: none;
 }
+/* hover-effect */
 .nav-item:hover {
   color: #8b0000;
   cursor: pointer;
