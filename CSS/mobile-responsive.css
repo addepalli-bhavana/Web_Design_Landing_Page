@@ -4,7 +4,6 @@
     overflow-y: visible;
     height: 100vh;
   }
-  /* nav-bar */
   .nav-items h5 {
     display: none;
   }
@@ -21,11 +20,9 @@
   .signin-btn {
     display: none;
   }
-  /* main-section */
   .main-section {
     flex-direction: column;
   }
-  /* top-section */
   .left-section {
     padding-right: 20px;
     padding-left: 20px;
@@ -46,7 +43,6 @@
   .learn-more-btn {
     font-size: 18px;
   }
-  /* bottom-section */
   .imgs-div {
     display: flex;
     justify-content: center;
